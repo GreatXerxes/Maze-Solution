@@ -1,0 +1,11 @@
+Exact both the jar and the src folder to the same folder/area.
+It can be run using command prompt and java -jar "Maze_Solution.jar" or by double-clicking the jar.
+
+I would have liked to make it much more fancy and visually appealing.
+I am going to continue to work on it in my free time and hopefully make it shine.
+
+Thank you for giving me the chance to try out this challenge.
+
+Kind Regards,
+
+Ciall McArdle.

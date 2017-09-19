@@ -1,0 +1,16 @@
+Exact both the jar and the src folder to the same folder/area.
+It can be run using command prompt and java -jar "Maze_Solution.jar" or by double-clicking the jar.
+
+Click on the maze you want to open and hit the 'Open' button.
+Click the 'Solve & Output' button to attempt to solve the maze and the solution will be output into a .txt file.
+
+I would have liked to make it much more fancy and visually appealing.
+I wanted to add an 'Add' button to allow users to add their own mazes for testing.
+I am going to continue to work on it in my free time and hopefully make it shine.
+This was created in Eclipse and Netbeans.
+
+Thank you for giving me the chance to try out this challenge.
+
+Kind Regards,
+
+Ciall McArdle.
